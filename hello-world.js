@@ -7,3 +7,4 @@ const sum = 2 + 3
 // adding numbers and printing to the console
 
 console.log(sum)
+console.log(sum/2)
